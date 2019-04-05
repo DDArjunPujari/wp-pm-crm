@@ -3,11 +3,11 @@
 /**
  * Fired during plugin activation
  *
- * @link       http://example.com
+ * @link       https://delhideveloper.com/
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    Wp_Pm_Crm
+ * @subpackage Wp_Pm_Crm/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    Wp_Pm_Crm
+ * @subpackage Wp_Pm_Crm/includes
+ * @author     Delhi Developer <info@delhideveloper.com>
  */
-class Plugin_Name_Activator {
+class Wp_Pm_Crm_Activator {
 
 	/**
 	 * Short Description. (use period)
